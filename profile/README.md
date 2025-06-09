@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/shim-dev/.github/main/turtle.png" width="80">
 
 
-# 🏡 SHIM - 저속노화 
+# 🏡 SHIM - 저속노화 식단 기록 서비스
 
 > **"저속노화를 위해 나의 하루를 기록해보세요."**
 
@@ -15,7 +15,8 @@
 > 식단 기록을 모아 **자신의 습관을 되돌아보아요.**  
 
 <br />
-## REPOSITORY
+
+## 📂 REPOSITORY
 
 ### 🖼️ SHIM - Frontend
 
@@ -28,7 +29,6 @@
 - 건강 점수 시각화 화면 제공
 - 캘린더, 알림 등 사용자 맞춤 UI 구성
 
----
 
 ### 🛠️ SHIM - Backend
 
@@ -68,8 +68,8 @@ MongoDB를 사용해 사용자 정보, 식단 기록, 건강 점수 데이터를
 <br />
 
 ## 👥 팀원 소개
-| 이름 | 역할 | GitHub |
-|------|------|--------|
+| 이름 | GitHub |
+|------|--------|
 | <img src="https://github.com/chaechae18.png" width="20"> **이채림** |[chaechae18](https://github.com/chaechae18) |
 | <img src="https://github.com/sua00.png" width="20"> **강수아** |[sua00](https://github.com/sua00) |
 | <img src="https://github.com/JHJ-lab.png" width="20"> **전혜진** |[JHJ-lab](https://github.com/JHJ-lab) |
