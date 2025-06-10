@@ -104,11 +104,6 @@ MongoDB를 사용해 사용자 정보, 식단 기록, 건강 점수 데이터를
 
 
 
-## 📌 설치 및 실행 방법
-```sh
-# 프로젝트 클론
-git clone https://github.com/shim-dev/frontend.git
-
 # 패키지 설치
 yarn install
 
