@@ -100,16 +100,3 @@ MongoDB를 사용해 사용자 정보, 식단 기록, 건강 점수 데이터를
 | <img src="https://github.com/egggbeee-dev.png" width="20"> **최한비** |[egggbeee-dev](https://github.com/egggbeee-dev) |
 
 
-<br />
-
-
-
-# 패키지 설치
-yarn install
-
-# 개발 서버 실행
-yarn dev
-```
-
----
-
