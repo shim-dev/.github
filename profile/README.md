@@ -80,13 +80,14 @@ MongoDB를 사용해 사용자 정보, 식단 기록, 건강 점수 데이터를
 
 <br />
 
-## 🛠️ 기술 스택 (수정 예정)
+## 🛠️ 기술 스택 
 
 | 분야          | 기술 |
 |--------------|------|
 | 📱 **Frontend** | <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> |
-| ⚙️ **Backend** | <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
-| 💾 **Database** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> |
+| ⚙️ **Backend** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| 💾 **Database** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">|
+| ☁️ **Infra** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> |
 
 
 <br />
